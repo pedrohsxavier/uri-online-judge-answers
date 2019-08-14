@@ -11,7 +11,10 @@
 [python-image]: https://img.shields.io/badge/python-python%203.7.4-blue.svg
 [python-url]: https://www.python.org/downloads/
 
-## Contribuição
+## Perfil no URI:
+[Pedro Xavier](https://www.urionlinejudge.com.br/judge/pt/profile/107646)
+
+## Contribuição:
 
 1. Faça o *fork* do projeto ([https://github.com/pedrohsxavier/URI-Online-Judge-Answers](https://github.com/pedrohsxavier/URI-Online-Judge-Answers))
 2. Crie uma *branch* para realizar sua modificação (`git checkout -b feature/fooBar`)
