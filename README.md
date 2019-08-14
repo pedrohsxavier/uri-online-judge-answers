@@ -2,11 +2,12 @@
 
 > Exercícios resolvidos do URI utilizando as linguagens de programação C, Java, Python e SQL.
 
-
-[![Uri][uri-image]][uri-url]
+[![Uri][uri-image]][uri-url] [![Java Version][java-image]][java-url]
 
 [uri-image]: https://img.shields.io/badge/uri-uri--online--judge-ff69b4.svg
-[uri-url]: https://www.urionlinejudge.com.br/judge/pt/login 
+[uri-url]: https://www.urionlinejudge.com.br/judge/pt/login
+[java-image]: https://img.shields.io/badge/java%208-jdk1.8-green.svg
+[java-url]: https://www.java.com/pt_BR/download/
 
 ## Contribuição
 
