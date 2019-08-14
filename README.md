@@ -6,9 +6,9 @@
 
 [uri-image]: https://img.shields.io/badge/uri-uri--online--judge-ff69b4.svg
 [uri-url]: https://www.urionlinejudge.com.br/judge/pt/login
-[java-image]: https://img.shields.io/badge/java%208-jdk1.8-green.svg
+[java-image]: https://img.shields.io/badge/java%208-jdk1.8-red.svg
 [java-url]: https://www.java.com/pt_BR/download/
-[python-image]: https://img.shields.io/badge/3.6-status-blue.svg
+[python-image]: https://img.shields.io/badge/python-3.6-blue.svg
 [python-url]: https://www.python.org/downloads/
 
 ## Contribuição
