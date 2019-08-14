@@ -8,7 +8,7 @@
 [uri-url]: https://www.urionlinejudge.com.br/judge/pt/login
 [java-image]: https://img.shields.io/badge/java%208-jdk1.8-red.svg
 [java-url]: https://www.java.com/pt_BR/download/
-[python-image]: https://img.shields.io/badge/python-python%203.7.4-blue.svg
+[python-image]: https://img.shields.io/badge/python-python%203.7-blue.svg
 [python-url]: https://www.python.org/downloads/
 
 ## Contribuição
