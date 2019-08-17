@@ -1,4 +1,4 @@
-# URI Online Judge | Answers
+# URI Online Judge | Respostas
 
 > Exercícios resolvidos do URI utilizando as linguagens de programação C, Java, Python e SQL.
 
