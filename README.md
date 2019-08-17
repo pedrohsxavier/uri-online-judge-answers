@@ -12,7 +12,11 @@
 [python-url]: https://www.python.org/downloads/
 
 ## Perfis no URI:
-#### [Pedro Xavier](https://www.urionlinejudge.com.br/judge/pt/profile/107646) | [Instituto Federal da Paraíba - IFPB](https://www.urionlinejudge.com.br/judge/pt/users/university/ifpb)
+#### Pessoal: 
+*[Pedro Xavier](https://www.urionlinejudge.com.br/judge/pt/profile/107646)
+
+#### Instituição de Ensino:
+*[Instituto Federal da Paraíba - IFPB](https://www.urionlinejudge.com.br/judge/pt/users/university/ifpb)
 
 ## Contribuição:
 
