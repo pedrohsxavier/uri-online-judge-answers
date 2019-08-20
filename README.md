@@ -25,3 +25,6 @@
 3. Faça o *commit* (`git commit -am 'Add some fooBar'`)
 4. Execute o comando *push* (`git push origin feature/fooBar`)
 5. Crie um novo *pull request*
+
+
+#### Falta colocar o restante das soluções em C/JAVA.
