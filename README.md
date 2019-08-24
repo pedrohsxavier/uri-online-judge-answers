@@ -27,4 +27,4 @@
 5. Crie um novo *pull request*
 
 
-#### Falta colocar o restante das soluções em C/JAVA.
+#### Falta inserir o restante das soluções em C/JAVA.
